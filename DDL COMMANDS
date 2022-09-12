@@ -1,0 +1,14 @@
+1. Create a table named ‘emp’ with field names and its data types & length as follows.
+a. empno number(4)
+b. ename char(10)
+c. deptno number(3)
+2. Describe the table structure of the ‘emp’ table.
+3. Modify the structure of the ‘emp’ table by adding a new column ‘sal’ with data type as:
+sal number(7,2). Describe the table structure of the ‘emp’ table.
+4. Modify the structure of the ‘emp’ table by dropping the created column ‘sal’. Describe the
+table structure of the ‘emp’ table.
+5. Modify the filed name ‘ename’ by increasing its width as : ename varchar2(15). Describe
+the table structure of the ‘emp’ table.
+6. Truncate the table ‘emp’.
+7. Destroy the table ‘emp’.
+8. Analyze the difference between the ‘Truncate table’ and ‘Drop table’.
